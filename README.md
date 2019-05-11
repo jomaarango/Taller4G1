@@ -21,6 +21,10 @@ MAYO 10 DE 2019
 
 * Instalar splunk en la maquina virtual.  
 * Realizar busqueda de los navegadores utilizados por la ip 74.53.23.135 
+  
+    
+
+![Image of Yaktocat](https://raw.githubusercontent.com/jomaarango/Taller3G1/taller-3-borrador/Navegdoresutilizados2.JPG) 
 * Configure la BD mysql en la maquina virtual.  
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 * Configure splunk para detectar esos 2 riesgos.  
