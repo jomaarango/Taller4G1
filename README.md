@@ -23,6 +23,7 @@ MAYO 10 DE 2019
 * Realizar busqueda de los navegadores utilizados por la ip 74.53.23.135 
   
     
+Se ejecuta la consulta que especifica que la la dirección IP 74.53.23.135 que muestra los navegadores utilizados por este cliente, generamos diferentes modelos de la consulta para permitir un mayor entendimientos de los resultados que Splunk puede llegar a generar a nivel de entendimiento de los eventos.  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Navegdoresutilizados2.JPG?raw=true) 
 
