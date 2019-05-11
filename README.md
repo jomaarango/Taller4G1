@@ -64,6 +64,7 @@ Se crea consulta para Sourcetype employees7
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/consultaEventos7.PNG)  
 
+**Configuración de la Herramienta Data Sumary** 
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/DatSumary.PNG)  
 
@@ -75,25 +76,25 @@ Se crea consulta para Sourcetype employees7
 Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos: 
 
 
-Creación de Usuario Mysql 
+**Creación de Usuario Mysql**  
 
-Usuario: hack2019
+**Usuario: hack2019** 
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/1_creacionUsuarioMysql.PNG)  
 
-Consulta Tabla Usuario: hack2019
+**Consulta Tabla Usuario: hack2019** 
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/2_ConsultaTabla.PNG)  
 
-Cambio de tabla Usuario: hack2019
+**Cambio de tabla Usuario: hack2019** 
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/3_cambiotabla.PNG)  
 
-Cambio de tabla Verificado: Usuario: hack2019
+**Cambio de tabla Verificado: Usuario: hack2019** 
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/4_cambioVerificado.PNG)
 
-log MySQL Splunk-7.2.6 
+**log MySQL Splunk-7.2.6 Reporte en Herramienta**  
  
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/5deteccionSplunk.PNG)  
 
