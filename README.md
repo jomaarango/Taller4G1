@@ -24,7 +24,8 @@ MAYO 10 DE 2019
   
     
 
-![Image of Yaktocat](https://raw.githubusercontent.com/jomaarango/Taller3G1/taller-3-borrador/Navegdoresutilizados2.JPG) 
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Navegdoresutilizados2.JPG?raw=true) 
+
 * Configure la BD mysql en la maquina virtual.  
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 * Configure splunk para detectar esos 2 riesgos.  
