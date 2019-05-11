@@ -133,4 +133,6 @@ Se considera un riesgo la evidencia de intento de conexión a la base de datos f
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/9DashboarLogin.PNG)
 
+**dashboard de modificacion en la base de datos en horario no habil**     
 
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/10_Query.PNG)
