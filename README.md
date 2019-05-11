@@ -97,11 +97,23 @@ Dentro del escenario tomado como riesgo para la base de datos modelos se conside
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/4_cambioVerificado.PNG)
 
 **log MySQL Splunk-7.2.6 Reporte en Herramienta**  
- 
+
+
+Query configurado en Splunk para detectar los comportamientos asociados al riesgo descrito: sourcetype="mysql:generalQueryLog" Command=Query Argument="update*"  
+
+
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/5deteccionSplunk.PNG)  
 
-**Riesgo 2**
-**XXXXXXXXXXXXXXXXXXXXXX**
+
+**Riesgo 2**  
+**Intentos de conexión Fallidos**  
+Se considera un riesgo la evidencia de intento de conexión a la base de datos fallidos, superiores a 10 intentos fallidos consecutivos, por lo tanto se evidenciará con Splunk como se verifica el intento de conexiones fallidas sobre nuestra base de datos:  
+
+
+
+Configure splunk para detectar esos 2 riesgos.
+Pruebe que splunk puede detectar esos 2 riesgos.
+Cree un repositorio en GitHub para colocar todas las evidencias y resultados del taller.
 * Configure splunk para detectar esos 2 riesgos.  
 * Pruebe que splunk puede detectar esos 2 riesgos.  
 * Cree un repositorio en GitHub para colocar todas las evidencias y resultados del taller.  
