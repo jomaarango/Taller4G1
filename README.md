@@ -117,6 +117,12 @@ Query configurado en Splunk para detectar los comportamientos asociados al riesg
 Se considera un riesgo la evidencia de intento de conexión a la base de datos fallidos, superiores a 10 intentos fallidos consecutivos, por lo tanto se evidenciará con Splunk como se verifica el intento de conexiones fallidas sobre nuestra base de datos:    
 
 
-se cargan las evidencias en las que se presentaron los intentos fallidos utilizandos 2 usuarios hack2018 y hack2019
+**se cargan las evidencias en las que se presentaron los intentos fallidos utilizandos 2 usuarios hack2018 y hack2019**  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/6_faillogin.PNG)  
+
+**se realiza la configuracion de la alerta en splunk**     
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/8_configuracionAlerta.PNG)
+
+**Alertas que se generan**   
