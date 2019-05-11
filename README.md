@@ -31,7 +31,7 @@ Tambien es posible visualizar los eventos con lineas de tendencia
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/busquedanavegadores.JPG) 
 
-Adicionalmente se creo un dashboard para ver la cantidas de eventos por el dia de ocurrencia
+Adicionalmente se creo un dashboard para ver la cantidad de eventos por el dia de ocurrencia
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/dashboard.JPG) 
 
 * Configure la BD mysql en la maquina virtual.  
