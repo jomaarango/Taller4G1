@@ -27,6 +27,11 @@ Se ejecuta la consulta que especifica que la la dirección IP 74.53.23.135 que m
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Navegdoresutilizados2.JPG?raw=true) 
 
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/busquedanavegadores.JPG) 
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/dashboard.JPG) 
+
 * Configure la BD mysql en la maquina virtual.  
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 * Configure splunk para detectar esos 2 riesgos.  
