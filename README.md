@@ -74,7 +74,7 @@ Se crea consulta para Sourcetype employees7
 **Modificación de Tablas horarios no permitidos**  
 Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos:  
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)   
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/1_creacionUsuarioMysql.PNG)   
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)  
 
