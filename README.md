@@ -44,23 +44,18 @@ Activar log MySQL de forma permanente
 Para activar el log de MySQL de manera que siga activado tras reiniciar el servidor, debemos hacerlo editando el fichero de configuración de la MySQL
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql1.JPG)  
+
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql2.JPG)  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/creacionUsuarioMysql.PNG)  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/privilegiosUsuarioSplunk.PNG)  
 
-
-
-
-
-
-
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/crear%20identidad.PNG)  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/identidadsplunk.PNG)  
 
-Se crea consulta para Sourcetype employees7  
+**Se crea consulta para Sourcetype employees7**  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/consultaEventos7.PNG)  
 
@@ -71,10 +66,11 @@ Se crea consulta para Sourcetype employees7
 
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 
-**Riesgo 1**  
-**Modificación de Tablas horarios no permitidos**  
-Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos: 
+**RIESGO 1** 
 
+**Modificación de Tablas horarios no permitidos** 
+
+Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos: 
 
 **Creación de Usuario Mysql**  
 
