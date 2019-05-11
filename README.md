@@ -95,7 +95,7 @@ Cambio de tabla Verificado: Usuario: hack2019
 
 log MySQL Splunk-7.2.6 
  
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/5deteccionSplunk.PNG)  
 
 **Riesgo 2**
 **XXXXXXXXXXXXXXXXXXXXXX**
