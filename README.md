@@ -44,8 +44,6 @@ Activar log MySQL de forma permanente
 Para activar el log de MySQL de manera que siga activado tras reiniciar el servidor, debemos hacerlo editando el fichero de configuración de la MySQL
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql1.JPG)  
-
-se reinician el servico para que se activen los logs
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql2.JPG)  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/creacionUsuarioMysql.PNG)  
@@ -74,25 +72,33 @@ Se crea consulta para Sourcetype employees7
 
 **Riesgo 1**  
 **Modificación de Tablas horarios no permitidos**  
-Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no laborales, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos:  
+Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos: 
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/1_creacionUsuarioMysql.PNG)   
+
+Creación de Usuario Mysql 
+
+Usuario: hack2019
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/1_creacionUsuarioMysql.PNG)  
+
+Consulta Tabla Usuario: hack2019
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/2_ConsultaTabla.PNG)  
 
+Cambio de tabla Usuario: hack2019
+
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/3_cambiotabla.PNG)  
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/4_cambioVerificado.PNG)  
+Cambio de tabla Verificado: Usuario: hack2019
 
-Query configurado en Splunk para detectar los comportamientos asociados al riesgo descrito: sourcetype="mysql:generalQueryLog" Command=Query Argument="update*"  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/4_cambioVerificado.PNG)
 
+log MySQL Splunk-7.2.6 
+ 
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)  
 
-**Riesgo 2**  
-**Intentos de conexión Fallidos**  
-Se considera un riesgo la evidencia de intento de conexión a la base de datos fallidos, superiores a 10 intentos fallidos consecutivos, por lo tanto se evidenciará con Splunk como se verifica el intento de conexiones fallidas sobre nuestra base de datos:  
-
-
-
+**Riesgo 2**
+**XXXXXXXXXXXXXXXXXXXXXX**
 * Configure splunk para detectar esos 2 riesgos.  
 * Pruebe que splunk puede detectar esos 2 riesgos.  
 * Cree un repositorio en GitHub para colocar todas las evidencias y resultados del taller.  
