@@ -42,6 +42,10 @@ Adicionalmente se creo un dashboard para ver la cantidad de eventos por el dia d
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql1.JPG)  
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql2.JPG)  
 
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/creacionUsuarioMysql.PNG)  
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/privilegiosUsuarioSplunk.PNG)  
+
 
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 * Configure splunk para detectar esos 2 riesgos.  
