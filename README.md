@@ -35,6 +35,14 @@ Adicionalmente se creo un dashboard para ver la cantidad de eventos por el dia d
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/dashboard.JPG) 
 
 * Configure la BD mysql en la maquina virtual.  
+  
+    
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Confmysql.JPG)  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Confmysql1.JPG) 
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql1.JPG)  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/Impormysql2.JPG)  
+
+
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 * Configure splunk para detectar esos 2 riesgos.  
 * Pruebe que splunk puede detectar esos 2 riesgos.  
