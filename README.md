@@ -71,7 +71,7 @@ Se crea consulta para Sourcetype employees7
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
 
 **Riesgo 1**  
-**Modificación de Tablas horarios no permitidos**
+**Modificación de Tablas horarios no permitidos**  
 Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos:  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)   
@@ -81,7 +81,7 @@ Dentro del escenario tomado como riesgo para la base de datos modelos se conside
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/)  
 
 **Riesgo 2**
-**
+**XXXXXXXXXXXXXXXXXXXXXX**
 * Configure splunk para detectar esos 2 riesgos.  
 * Pruebe que splunk puede detectar esos 2 riesgos.  
 * Cree un repositorio en GitHub para colocar todas las evidencias y resultados del taller.  
