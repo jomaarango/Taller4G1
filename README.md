@@ -127,6 +127,10 @@ Se considera un riesgo la evidencia de intento de conexión a la base de datos f
 
 **Alertas que se generan en splunk luego de haber realizado la configuracion de las alertas**   
 
-**![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/7_decctionfaillogin.PNG)**  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/7_decctionfaillogin.PNG)  
 
 **Evidencia de la configuracion de alertas y generacion de Dashboard**  
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/9DashboarLogin.PNG)
+
+
