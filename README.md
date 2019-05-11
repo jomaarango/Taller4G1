@@ -49,3 +49,4 @@ Para activar el log de MySQL de manera que siga activado tras reiniciar el servi
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/creacionUsuarioMysql.PNG)  
 
+**Se genera un Dashboard para la visualizacion de los eventos fallidos en tiempo real**  
