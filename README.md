@@ -52,7 +52,7 @@ Adicionalmente se creo un dashboard para ver la cantidad de eventos por el dia d
 
 
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/crear identidad.PNG)  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/crear%20identidad.PNG)  
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/identidadsplunk.PNG)  
 
