@@ -80,7 +80,7 @@ Dentro del escenario tomado como riesgo para la base de datos modelos se conside
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/3_cambiotabla.PNG)  
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/3_cambiotabla.PNG)  
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/4_cambioVerificado.PNG)  
 
 **Riesgo 2**
 **XXXXXXXXXXXXXXXXXXXXXX**
