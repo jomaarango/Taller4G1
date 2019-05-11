@@ -69,8 +69,14 @@ Se crea consulta para Sourcetype employees7
 
 
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
-Para el monitoreo de la base de datos se considera importante la deteccion de los eventos relacionados con la creacion de usuarios, asignacion de roles y modificacion de los valores de tablas de un usuario en horario no laboral.  
 
+**Riesgo 1**  
+**Modificación de Tablas horarios no permitidos**
+Dentro del escenario tomado como riesgo para la base de datos modelos se considera que un empleado realice modificaciones sobre las bases de datos en horarios no habiles, para este caso se escoge que un sabado no es comun que se realice modifcioaciones sobre las bases de datos, evidenciamos los cambios y como splunk muestra los logs realcionados a este tipo de querys especificos:  
+
+
+**Riesgo 2**
+**
 * Configure splunk para detectar esos 2 riesgos.  
 * Pruebe que splunk puede detectar esos 2 riesgos.  
 * Cree un repositorio en GitHub para colocar todas las evidencias y resultados del taller.  
