@@ -57,7 +57,9 @@ Adicionalmente se creo un dashboard para ver la cantidad de eventos por el dia d
 
 ![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/identidadsplunk.PNG)  
 
-![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/consultaEventos.PNG)  
+Se crea consulta para Sourcetype employees7  
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller4G1/blob/Borradortaller4/Imagenes/consultaEventos7.PNG)  
 
 
 * Seleccione 2 riesgos que considere críticos detectarlos y que se puedan detectar en un SIEM.  
